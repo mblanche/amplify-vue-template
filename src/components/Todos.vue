@@ -31,6 +31,7 @@ function createTodo() {
   });
 }
 
+
 // fetch todos when the component is mounted
 onMounted(() => {
   listTodos();
